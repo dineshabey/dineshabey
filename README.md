@@ -2,16 +2,25 @@
   <img height="100%" width="100%" src="https://github.com/dineshabey/dineshabey/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png?raw=true"/>
 </div>
 
-###
+  ## Connect with me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
-  <a href="dinabeysinghe@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<a href="mailto:dinabeysinge@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
+
+<a href="https://huggingface.co/dineshabeysinghe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFAA00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="huggingface logo" />
+</a>
+
+<a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FutureAIToday&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
 </div>
 
 ###
