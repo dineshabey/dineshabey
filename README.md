@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" width="100" src="https://github.com/dineshabey/dineshabey/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png?raw=true"/>
+  <img height="100%" width="100%" src="https://github.com/dineshabey/dineshabey/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png?raw=true"/>
 </div>
 
 ###
