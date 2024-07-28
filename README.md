@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1NXAWPyGPTEjTCdI_mkRlObueYirYqeIG/view?usp=sharing"/>
+  <img height="150" src="https://github.com/dineshabey/dineshabey/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png?raw=true"/>
 </div>
 
 ###
