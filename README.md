@@ -138,37 +138,33 @@
 
 ###
 
-<h3 align="left">🌐 Connect with Me</h3>
+## Connect with Me
 
-<h3 align="left">🌐 Connect with Me</h3>
-
-<div align="left">
-  <p>
+<div align="center">
     <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" /> LinkedIn Profile
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
     </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn Newsletter" height="40" /> LinkedIn Newsletter
+
+    <a href="mailto:dinabeysinge@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
     </a>
-  </p>
-  <p>
+
     <a href="https://huggingface.co/dineshabeysinghe" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/hugging-face.png" alt="Hugging Face" height="40" /> Hugging Face Profile
+        <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFAA00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HuggingFace logo" />
     </a>
-  </p>
-  <p>
+
+    <a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=FutureAIToday&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Newsletter logo" />
+    </a>
+
     <a href="https://www.cloudskillsboost.google/public_profiles/7c49b906-8240-40ec-b0d5-37a682fdb9d4" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Cloud Skills Boost" height="40" /> Cloud Skills Boost
+        <img src="https://img.shields.io/static/v1?message=CloudSkillsBoost&logo=google-cloud&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cloud Skills Boost logo" />
     </a>
-  </p>
-  <p>
+
     <a href="https://developers.google.com/profile/u/dineshabeysighe" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Developer Profile" height="40" /> Google Developer Profile
-    </a>
-  </p>
-</div>
+        <img src="https://img.shields.io/static/v1?message=GoogleDeveloper&logo=google&label=&color=34A853&logoColor=white&labelColor=&style=for
+
+
 
 ###
 
