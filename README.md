@@ -140,12 +140,12 @@
 
 <h3 align="left">🌐 Connect with Me</h3>
 
-###
+<h3 align="left">🌐 Connect with Me</h3>
 
 <div align="left">
   <p>
     <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" /> LinkedIn
+      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" /> LinkedIn Profile
     </a>
   </p>
   <p>
@@ -154,8 +154,8 @@
     </a>
   </p>
   <p>
-    <a href="https://www.linkedin.com/pulse/unleashing-power-ai-building-your-ai-powered-guide-dinesh-abeysinghe-budjc/?trackingId=odhAX7d9S2ebowPxVdu4qQ%3D%3D" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Hugging Face Article" height="40" /> Hugging Face Article
+    <a href="https://huggingface.co/dineshabeysinghe" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/hugging-face.png" alt="Hugging Face" height="40" /> Hugging Face Profile
     </a>
   </p>
   <p>
@@ -169,4 +169,8 @@
     </a>
   </p>
 </div>
+
+###
+
+
 
