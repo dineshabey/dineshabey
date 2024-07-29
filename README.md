@@ -137,35 +137,26 @@
 </div>
 
 ###
-<h3 align="left">🔥  Connect with Me :</h3>
-## Connect with Me
+## Connect with me
 
-<div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-    </a>
+<div align="center">
+<a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
-    <a href="mailto:dinabeysinge@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
-    </a>
+<a href="mailto:dinabeysinge@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+</a>
 
-    <a href="https://huggingface.co/dineshabeysinghe" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFAA00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HuggingFace logo" />
-    </a>
+<a href="https://huggingface.co/dineshabeysinghe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HuggingFace&logo=huggingface&label=&color=FFAA00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="huggingface logo" />
+</a>
 
-    <a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=FutureAIToday&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Newsletter logo" />
-    </a>
+<a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=FutureAIToday&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
-    <a href="https://www.cloudskillsboost.google/public_profiles/7c49b906-8240-40ec-b0d5-37a682fdb9d4" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=CloudSkillsBoost&logo=google-cloud&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Cloud Skills Boost logo" />
-    </a>
-
-    <a href="https://developers.google.com/profile/u/dineshabeysighe" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?message=GoogleDeveloper&logo=google&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Google Developer Profile logo" />
-    </a>
 </div>
-
 
 
 ###
