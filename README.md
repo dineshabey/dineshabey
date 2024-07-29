@@ -83,13 +83,13 @@
 <div align="center">
   <p>Here are some fun stats about my journey and skills:</p>
   <ul>
-    <li>💻 Over 5 years of experience in Fullstack Development</li>
-    <li>🚀 Completed 50+ projects in various domains including AI/ML</li>
+    <li>💻 Over 6 years of experience in Fullstack Development</li>
+    <li>🚀 Completed 3+ projects in various domains including AI/ML</li>
     <li>🌐 Proficient in 10+ programming languages and frameworks</li>
     <li>📈 Consistently learning and upskilling in the latest tech trends</li>
     <li>🌟 Passionate about sharing knowledge through blogs and newsletters</li>
   </ul>
-  <img height="200" src="https://i.imgur.com/bBFfp4f.gif" alt="robot image" />
+ <img height="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="robot image" />
 </div>
 
 ###
