@@ -33,7 +33,14 @@
 
 ###
 
-<p align="left">I'm Dinesh Abeysinghe<br><br>- 🔭 I’m working as a Fullstack Software Engineer and Freelancer AI-ML Engineer<br>- 📚 I'm currently learning AI technologies and tools<br>- ⚡ In my free time, I create blogs and newsletters, and I love traveling</p>
+<p align="left">I'm Dinesh Abeysinghe</p>
+
+<ul>
+  <li>🔭 Currently, I'm working as a Fullstack Software Engineer and Freelance AI/ML Engineer.</li>
+  <li>📚 I'm continually expanding my knowledge of AI technologies and tools.</li>
+  <li>⚡ In my free time, I enjoy creating blogs and newsletters, as well as traveling to explore new places.</li>
+</ul>
+
 
 ###
 
@@ -69,7 +76,19 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <div align="center">
+  <p>Here are some fun stats about my journey and skills:</p>
+  <ul>
+    <li>💻 Over 5 years of experience in Fullstack Development</li>
+    <li>🚀 Completed 50+ projects in various domains including AI/ML</li>
+    <li>🌐 Proficient in 10+ programming languages and frameworks</li>
+    <li>📈 Consistently learning and upskilling in the latest tech trends</li>
+    <li>🌟 Passionate about sharing knowledge through blogs and newsletters</li>
+  </ul>
   <img height="200" src="https://i.imgur.com/bBFfp4f.gif" alt="robot image" />
 </div>
 
