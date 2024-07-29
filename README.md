@@ -137,7 +137,6 @@
 </div>
 
 ###
-
 ## Connect with Me
 
 <div align="center">
@@ -162,8 +161,9 @@
     </a>
 
     <a href="https://developers.google.com/profile/u/dineshabeysighe" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=GoogleDeveloper&logo=google&label=&color=34A853&logoColor=white&labelColor=&style=for
-
+        <img src="https://img.shields.io/static/v1?message=GoogleDeveloper&logo=google&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Google Developer Profile logo" />
+    </a>
+</div>
 
 
 ###
