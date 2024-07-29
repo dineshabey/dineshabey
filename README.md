@@ -41,13 +41,6 @@
   <li>⚡ In my free time, I enjoy creating blogs and newsletters, as well as traveling to explore new places.</li>
 </ul>
 
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -144,3 +137,36 @@
 </div>
 
 ###
+
+<h3 align="left">🌐 Connect with Me</h3>
+
+###
+
+<div align="left">
+  <p>
+    <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" /> LinkedIn
+    </a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/newsletters/7205635660026703872/" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn Newsletter" height="40" /> LinkedIn Newsletter
+    </a>
+  </p>
+  <p>
+    <a href="https://www.linkedin.com/pulse/unleashing-power-ai-building-your-ai-powered-guide-dinesh-abeysinghe-budjc/?trackingId=odhAX7d9S2ebowPxVdu4qQ%3D%3D" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Hugging Face Article" height="40" /> Hugging Face Article
+    </a>
+  </p>
+  <p>
+    <a href="https://www.cloudskillsboost.google/public_profiles/7c49b906-8240-40ec-b0d5-37a682fdb9d4" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Cloud Skills Boost" height="40" /> Cloud Skills Boost
+    </a>
+  </p>
+  <p>
+    <a href="https://developers.google.com/profile/u/dineshabeysighe" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Developer Profile" height="40" /> Google Developer Profile
+    </a>
+  </p>
+</div>
+
