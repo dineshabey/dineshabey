@@ -3,7 +3,7 @@
 </div>
 
 ## Connect with me
-
+💻 Need software developed? Feel free to contact me to bring your ideas to life!
 <div align="center">
 <a href="https://www.linkedin.com/in/dinesh-abeysinghe-bb773293" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -37,9 +37,11 @@
 
 <ul>
   <li>🔭 Currently, I'm working as a Fullstack Software Engineer and Freelance AI/ML Engineer.</li>
-  <li>📚 I'm continually expanding my knowledge of AI technologies and tools.</li>
-  <li>⚡ In my free time, I enjoy creating blogs and newsletters, as well as traveling to explore new places.</li>
+  <li>📚 I’m passionate about AI technologies and always expanding my knowledge in the field.</li>
+  <li>⚡ In my free time, I enjoy creating blogs and newsletters, and traveling to explore new places.</li>
+  <li>💼 I also work as a Consultant/Lecturer for Datascence, sharing knowledge and experience in data science and technology.</li>
 </ul>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
