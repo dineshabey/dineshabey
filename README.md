@@ -130,7 +130,7 @@
   <p>Here are some fun stats about my journey and skills:</p>
   <ul>
     <li>💻 Over 6 years of experience in Fullstack Development</li>
-    <li>🚀 Completed 3+ projects in various domains including AI/ML</li>
+    <li>🚀 Completed more projects in various domains including AI/ML</li>
     <li>🌐 Proficient in 10+ programming languages and frameworks</li>
     <li>📈 Consistently learning and upskilling in the latest tech trends</li>
     <li>🌟 Passionate about sharing knowledge through blogs and newsletters</li>
